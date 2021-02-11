@@ -1,6 +1,7 @@
 ## SWOT analysis
 
-|
+|![Activity diagram](https://user-images.githubusercontent.com/78848640/107676462-2ded1e80-6cbf-11eb-95d9-a5080cd50cad.jpg)
+
 ## Strength
 
 

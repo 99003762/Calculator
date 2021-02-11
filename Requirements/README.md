@@ -1,6 +1,6 @@
 ## SWOT analysis
 
-|
+|![](Screenshot (19).png)
 ## Strength
 
 

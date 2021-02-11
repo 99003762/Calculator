@@ -1,6 +1,6 @@
 ## SWOT analysis
 
-|![Screenshot (51)](https://user-images.githubusercontent.com/78848581/107675843-7f48de00-6cbe-11eb-9338-68f27e618f2b.png)
+|
 ## Strength
 
 

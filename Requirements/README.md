@@ -17,7 +17,6 @@
 - Not for all age groups
 - Costly
 
-## anuj
  |
 | --- | --- |
 |

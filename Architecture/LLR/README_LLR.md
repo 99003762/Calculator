@@ -28,6 +28,10 @@ LLR UML diagrams
                                                            Sequential Diagram
                                                            
 ![Sequence llr](https://user-images.githubusercontent.com/78848692/107731840-ec8b5c00-6d1c-11eb-995f-32a768d6286e.PNG)
+                                             
+                                                           Class Diagam
+![structural   Class New LLR ](https://user-images.githubusercontent.com/78869692/107733067-0b3f2200-6d20-11eb-8192-95d8513e49b6.png)
+                                                          
 
                                                           
                                                           

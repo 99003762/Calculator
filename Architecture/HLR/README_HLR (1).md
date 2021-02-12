@@ -19,6 +19,12 @@ HLR UML diagrams
 
 
 
+                                          Class Diagram
+![Structural   Class  Hlr New ](https://user-images.githubusercontent.com/78869692/107732911-9c61c900-6d1f-11eb-83af-60b3fccd14ab.png)
+                                          
+
+
+
                                                    
 
                                             

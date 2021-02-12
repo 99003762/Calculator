@@ -1,22 +1,21 @@
 ## SWOT analysis
 
-|![Activity diagram](https://user-images.githubusercontent.com/78848640/107676462-2ded1e80-6cbf-11eb-95d9-a5080cd50cad.jpg)
+|
 
 ## Strength
 
-
-- User friendly
-- Efficient
+- Affordable
+- Precise and Accurate
+- Arithmetic functions 
 - Programmable
-- Advanced
-- Compact and portable
-- Voice commandable
+- Trigonometric functions
+- Body to Mass ratio 
  |
 ## Weakness
 
 
 - Not for all age groups
-- Costly
+
 
  |
 | --- | --- |
@@ -45,7 +44,8 @@
 
 - Banks
 - Students
-- Handicapped
+- Commercial purpose
+- Trading
  |
 | --- |
 |
@@ -53,9 +53,7 @@
 
 
 - Advanced and enhanced
-- Energy efficient
 - Precise
-- Voice commandable
  |
 |
 ## **WHAT**
@@ -69,14 +67,14 @@
 
 
 - Simple and complex calculations
-- BMI and calorie counter in fitness centers
+- BMI and Trigonometric functions
 
  |
 |
 ## **HOW**
 
 
-- Voice commandable and manually accessible
+- Manually accessible
  |
 
 # Key features:

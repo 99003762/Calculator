@@ -81,25 +81,24 @@
 
 # Key features:
 
-- Portable body
-- Efficiency
-- Basic operations
-- Precise
+- Arithmatic operations
+- Conversion of currency and temperature
+- Trigonometric functions
+- BMI(Body to Mass Index)
+- Precision 4 floating points
 - Digit limits up to 10-12
-- LED screen
-- Voice commandable
-- User friendly interface
-- Programmable.
+
 
 ID DESCRIPTIONS
 
-| LLR | Portable and compact body |
-| --- | --- |
-| HLR | Voice commandable (MIC and speaker) |
-| LLR | LED displayScreen resolution (640\*360) |
-| HLR | Programmable |
-| HLR | Memory recall of equation and its results |
-| LLR | Physical buttons |
-| LLR | Dimensions
- (3.66\*3.43\*0.067m) |
-| HLR | Financial, BMI and Calorie |
+| HLR | Arithmatic Operation, 
+        Conversions, 
+        Trigonometric function,BMI
+        BMI.
+
+| LLR | +,-,*,/
+        currency and Temperature,
+        Sine,Cos,Tan functions
+        Weight,Height.
+        
+

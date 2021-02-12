@@ -93,7 +93,7 @@ ID DESCRIPTIONS
 | HLR | Arithmatic Operation, 
         Conversions, 
         Trigonometric function,BMI
-        BMI.
+ 
 
 | LLR | +,-,*,/
         currency and Temperature,

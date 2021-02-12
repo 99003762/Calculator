@@ -31,6 +31,12 @@ LLR UML diagrams
                                              
                                                            Class Diagam
 ![structural   Class New LLR ](https://user-images.githubusercontent.com/78869692/107733067-0b3f2200-6d20-11eb-8192-95d8513e49b6.png)
+
+
+                                                           Use case diagram
+                                
+![Behavioural Use case LLR](https://user-images.githubusercontent.com/78869692/107733186-5eb17000-6d20-11eb-8fdf-214a1fc915bc.png)
+
                                                           
 
                                                           

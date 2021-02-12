@@ -97,7 +97,7 @@ ID DESCRIPTIONS
 
 | LLR | +,-,*,/
         currency and Temperature,
-        Sine,Cos,Tan functions,
+        Sine,Cos,Tan and cot  functions,
         Weight,Height.
         
 

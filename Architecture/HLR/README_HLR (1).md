@@ -11,8 +11,7 @@ HLR UML diagrams
 ![Conversion HLR](https://user-images.githubusercontent.com/78848692/107729317-84397c00-6d16-11eb-84d5-3a3bd0786874.PNG)
 
                                                
-                                               Class Diagram
-![Structural   Class  HLR ](https://user-images.githubusercontent.com/78869692/107730702-142cf500-6d1a-11eb-97f0-879b14dd8ed1.png)
+
 
                                                 Sequencial diagram
                                             

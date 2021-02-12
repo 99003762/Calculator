@@ -4,6 +4,11 @@ LLR UML diagrams
                                                         
 ![class diagram trignometry](https://user-images.githubusercontent.com/78848581/107730289-00cd5a00-6d19-11eb-83ff-987784763cd2.jpg)
 
+                                                        Activity Diagram
+                                                       
+![Activity trignometry](https://user-images.githubusercontent.com/78848581/107730594-d62fd100-6d19-11eb-9a4a-2e441e112416.jpg)
+                                                       
+
 
                                                           Use case Diagram
                                                           

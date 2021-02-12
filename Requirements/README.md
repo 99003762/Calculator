@@ -1,6 +1,6 @@
 ## SWOT analysis
 
-|![HLR deployment](https://user-images.githubusercontent.com/78848581/107728365-df1da400-6d13-11eb-90fc-7317528a6149.jpg)
+|
 
 
 ## Strength

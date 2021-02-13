@@ -104,6 +104,10 @@ ID DESCRIPTIONS
                              (1) Trignometric calculater use the taylor series for Sin/cos/tan/cot or CORDIC Algorithm.
                              (2)Input required is a number in Radian Theta,which range between -Pie/2 to +Pie/2.
                              (3)Ist convert given input in radian by diving input by 180 and multiply by Pie=3.14
+                             
+                             
+                             
+                             
                               
         
 

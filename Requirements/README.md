@@ -131,24 +131,34 @@ Check if the complex conjugate keys are working as expected.
 
 
 |BMI Calculator Test Plan|
-Test Plan Identifier: 
+
+#Test Plan Identifier: 
 BMI calculator test plan version 1
 Introduction:
 Summary This test plan will feature all activities required to perform adequate testing for the BMI Calculator . BMI Calculator, which will be developed in Visual Basic, will run on various Windows operating systems will need to tested on various platforms with all identified test cases.
 
-Test Items
+#Test Items
 BMI Calculator v1.0
 The calculator will be supported on the following operating systems, so it will need to be tested on all these platforms:
 1.Windows Vista
 2.Windows 7
 3.Linux
-References
+#References
 1.Requirements doc.xlsx2
 2.Design_Document.docx
 
-References to bug reports:(Not available yet)
+#References to bug reports:(Not available yet)
 
-Features to be Tested1.Installation of BMI Calculator in the supported Windows operating systems2.Inputs that the BMI Calculator will accept3.Outputs that the BMI Calculator will display4.Spell check of all text displayed in the application
+#Features to be Tested
+1.Installation of BMI Calculator in the supported Windows operating systems
+2.Inputs that the BMI Calculator will accept
+3.Outputs that the BMI Calculator will display
+4.Spell check of all text displayed in the application
+5.Performance testing for output
+
+#Features Not to Be Tested
+1)No Load testing will be performed since the application cannot be used by multiple users simultaneously
+2)No Security testing will be performed as the application will not contain identifiable informationfor the user.
 
 
                              

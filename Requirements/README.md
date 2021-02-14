@@ -128,6 +128,11 @@ Check if the natural logarithm key i operational and works as expected.
 Check if the factorial key is working as expected.
 Check if the real and imaginary component keys are working as expected.
 Check if the complex conjugate keys are working as expected. 
+
+
+|BMI Calculator Test Plan|
+Test Plan Identifier: 
+BMI calculator test plan version 1
                              
                              
                              

@@ -202,7 +202,7 @@ There are no testing tools used for this application. All testing will be perfor
 Tasks necessary to prepare for and perform testing
 1.Install DLLs for running Visual Basic Applications
 2.Install BMI Calculator
-3.Run BMI Calculator4.Perform Functional Testing5.Perform Performance Testing
+3.Run BMI Calculator4.Perform Functional Testing5.Perform Performance Testing.
 
 
 

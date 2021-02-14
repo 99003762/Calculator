@@ -174,6 +174,38 @@ Performed manually by checking the response times of outputs and how long it tak
 #Requirements’ tracing
 Each test case will identify which Requirements it covers2.Test case will be marked as Passed/Failed/Not tested yet to display its status
 
+#Suspension Criteria and Resumption Requirements
+Testing may be suspended if
+1.A blocker bug exists
+2.Thetest machines are disabled
+Testing activities which must be redone when testing is resumed
+1.Installation of BMI Calculator
+2.Smoke test of BMI Calculator
+3.Regression of basic functionality
+
+#Test Deliverables
+1)Deliverabledocuments: 
+1.Test plan, 
+2.Test cases
+3.BugReports
+#Test Input
+Height: -1, 0, 1, 10-96, abc
+Weight: -1, 0, 1, 5-500, abc
+Age: -1, 0, 1, 1-100, abc
+Test Output:
+BMI: 0-100
+Height: [same number as input]
+Weight: [same number as input]
+There are no testing tools used for this application. All testing will be performed manually.
+
+#Testing Tasks
+Tasks necessary to prepare for and perform testing
+1.Install DLLs for running Visual Basic Applications
+2.Install BMI Calculator
+3.Run BMI Calculator4.Perform Functional Testing5.Perform Performance Testing
+
+
+
 
                              
                              

@@ -161,6 +161,12 @@ The calculator will be supported on the following operating systems, so it will 
 2)No Security testing will be performed as the application will not contain identifiable informationfor the user.
 
 
+
+#Approach:
+1)Overall approach to testing
+Functional and performance testing will be performed on the BMI Calculator. There is no need to perform unit or integration testing as the application has a small number of features,which will be coveredin the basic functional testing.
+
+
                              
                              
                              

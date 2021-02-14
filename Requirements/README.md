@@ -171,6 +171,10 @@ Functional and performance testing will be performed on the BMI Calculator. Ther
 Performed manually by checking the response times of outputs and how long it takes to launch BMI calculator.
 
 
+#Requirements’ tracing
+Each test case will identify which Requirements it covers2.Test case will be marked as Passed/Failed/Not tested yet to display its status
+
+
                              
                              
                              

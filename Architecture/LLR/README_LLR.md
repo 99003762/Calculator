@@ -37,6 +37,10 @@ LLR UML diagrams
                                 
 ![Behavioural Use case LLR](https://user-images.githubusercontent.com/78869692/107733186-5eb17000-6d20-11eb-8fdf-214a1fc915bc.png)
 
+
+                                                           State Diagram
+<img width="712" alt="Behavioral State Diadram LLR" src="https://user-images.githubusercontent.com/78869692/107873999-8baa8200-6edc-11eb-9d70-2dbce563b131.PNG">
+
                                                           
 
                                                           

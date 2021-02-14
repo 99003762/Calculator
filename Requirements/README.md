@@ -203,6 +203,10 @@ Tasks necessary to prepare for and perform testing
 1.Install DLLs for running Visual Basic Applications
 2.Install BMI Calculator
 3.Run BMI Calculator4.Perform Functional Testing5.Perform Performance Testing.
+4.Regress on different Windows operating system
+TaskinterdependenciesBMI Calculator will not run if the appropriate DLLs are not installed
+Specialskills required
+QA Analyst must be able to diagnose and recreate the exact steps needed for the bug to occur and provide possible workarounds
 
 
 

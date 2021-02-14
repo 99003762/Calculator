@@ -41,6 +41,12 @@ LLR UML diagrams
                                                            State Diagram
 <img width="712" alt="Behavioral State Diadram LLR" src="https://user-images.githubusercontent.com/78869692/107873999-8baa8200-6edc-11eb-9d70-2dbce563b131.PNG">
 
+
+
+                                             Class Diagram
+<img width="620" alt="structural class diagram LLR" src="https://user-images.githubusercontent.com/78869692/107874044-c8767900-6edc-11eb-998f-897b4ebfc04e.PNG">
+                                             
+
                                                           
 
                                                           

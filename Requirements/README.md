@@ -167,6 +167,10 @@ The calculator will be supported on the following operating systems, so it will 
 Functional and performance testing will be performed on the BMI Calculator. There is no need to perform unit or integration testing as the application has a small number of features,which will be coveredin the basic functional testing.
 
 
+#Performance Testing
+Performed manually by checking the response times of outputs and how long it takes to launch BMI calculator.
+
+
                              
                              
                              

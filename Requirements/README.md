@@ -127,7 +127,7 @@ Check if the log key is operational and works as expected.
 Check if the natural logarithm key i operational and works as expected.
 Check if the factorial key is working as expected.
 Check if the real and imaginary component keys are working as expected.
-Check if the complex conjugate keys are working as expected. Conform that user ente only positive. Value of height
+Check if the complex conjugate keys are working as expected. 
                              
                              
                              
